@@ -123,7 +123,7 @@ nav a:hover {
 
   footer {
     text-align: center;
-    background: url(img/bg.jpg);
+    background: url(../img/bg.jpg);
    
 }
 
@@ -140,7 +140,7 @@ nav a:hover {
 }
 
 .pgn {
-    width: 25px;
+    width: 35px;
     margin: 5px 0px;
     padding: 5px 5px;
     border-radius: 50%;
